@@ -1,2 +1,1 @@
-# myfirstboostrap
-myfirstboostrap
+TinDog Starting Files
